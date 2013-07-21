@@ -1,0 +1,28 @@
+{
+  "name": "ngit",
+  "version": "0.0.0",
+  "description": "A git inspired version control system written CoffeeScript and compiled to JavaScript",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/abishekk92/ngit.git"
+  },
+  "keywords": [
+    "vcs",
+    "git"
+  ],
+  "author": "Abishek Bhat <bhat.abishek@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abishekk92/ngit/issues"
+  },
+  "devDependencies":{
+  "coffee-script"
+  }
+}
