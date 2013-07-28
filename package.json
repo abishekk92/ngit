@@ -23,6 +23,7 @@
     "url": "https://github.com/abishekk92/ngit/issues"
   },
   "devDependencies":{
-  "coffee-script"
+  "coffee-script":"",
+  "mocha":""
   }
 }
